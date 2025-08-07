@@ -309,6 +309,7 @@ from os import device_encoding
 # for mark in student_marks:
 #     if mark < lowest_marks:
 #         lowest_marks = mark
+          heigest_marks = 38
 #
 # print(lowest_marks)
 # user_choice = input("What size of pizza do you want?'s','m','l'").lower()
